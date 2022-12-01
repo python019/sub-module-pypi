@@ -2,6 +2,9 @@ Metadata-Version: 2.1
 Name: subuxapp
 Version: 0.0.1
 Summary: Say hello
+Home-page: https://github.com/python019/sub-module-pypi
+Author: Jumayev Ubaydullo
+Author-email: tommyjumayev@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.10

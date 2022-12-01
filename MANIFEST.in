@@ -1,0 +1,7 @@
+include *.md
+include *.py
+recursive-include __pycache__ *.pyc
+recursive-include build *.py
+recursive-include dist *.gz
+recursive-include dist *.whl
+recursive-include src *.pyc
