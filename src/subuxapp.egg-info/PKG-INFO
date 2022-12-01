@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: subuxapp
+Version: 0.0.1
+Summary: Say hello
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License ::  OSI Approved :: GNU General Public License v3
+Classifier: Operating Susystem :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE.txt
+
+# Hello World
+
+This is n example project demonstrating how to publish a python module to PyPi
+
+## Installation
+
+Run the following install:
+
+```python
+pip install subuxapp
+```
+
+## Usage
+
+```python
+from helloworld import say_hello
+

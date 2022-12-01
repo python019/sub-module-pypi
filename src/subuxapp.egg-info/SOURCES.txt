@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+src/sub.py
+src/subuxapp.egg-info/PKG-INFO
+src/subuxapp.egg-info/SOURCES.txt
+src/subuxapp.egg-info/dependency_links.txt
+src/subuxapp.egg-info/requires.txt
+src/subuxapp.egg-info/top_level.txt

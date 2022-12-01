@@ -1,0 +1,4 @@
+blessings~=1.7
+
+[dev]
+pytest>=3.10
