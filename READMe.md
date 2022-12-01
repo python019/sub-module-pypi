@@ -1,4 +1,4 @@
-# Hello World
+# SubUx PyPi
 
 This is n example project demonstrating how to publish a python module to PyPi
 
@@ -13,5 +13,5 @@ pip install subuxapp
 ## Usage
 
 ```python
-from helloworld import say_hello
+from sub import say_hello
 

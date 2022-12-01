@@ -8,8 +8,6 @@ Author-email: tommyjumayev@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.10
-Classifier: License ::  OSI Approved :: GNU General Public License v3
-Classifier: Operating Susystem :: OS Independent
 Description-Content-Type: text/markdown
 Provides-Extra: dev
 License-File: LICENSE.txt

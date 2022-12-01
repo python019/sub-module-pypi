@@ -1,6 +1,14 @@
 LICENSE.txt
+MANIFEST.in
+READMe.md
 setup.py
+test_sub.py
+__pycache__/test_sub.cpython-310-pytest-7.1.3.pyc
+dist/subuxapp-0.0.1-py3-none-any.whl
+dist/subuxapp-0.0.1.tar.gz
 src/sub.py
+src/__pycache__/helloworld.cpython-310.pyc
+src/__pycache__/sub.cpython-310.pyc
 src/subuxapp.egg-info/PKG-INFO
 src/subuxapp.egg-info/SOURCES.txt
 src/subuxapp.egg-info/dependency_links.txt
